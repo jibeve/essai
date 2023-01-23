@@ -1,3 +1,5 @@
 #Hello World
-#Homebrew installation: Cbrew instal gh
+
+#Homebrew installation: brew instal gh
+
 #Create a repo github from command line
